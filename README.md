@@ -12,4 +12,4 @@ document.write('<h1>https://julia252006.github.io/hello-javascript/!</h1>')
 ```
 
 <span>Project is published at:
-https://julia252006.github.io/hello-javascript/</span
+https://julia252006.github.io/hello-javascript/</span>
